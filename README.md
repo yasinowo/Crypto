@@ -5,7 +5,7 @@
 ## اسکرین شات ها
 
 <p align="center">
-  <img src=".Screenshot_1738923202.png" alt="login" width="300" /> 
+  <img src="./Screenshot_1738923202.png" alt="login" width="300" /> 
 </p>
 
 ## ویدیو 
