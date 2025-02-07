@@ -2,6 +2,12 @@
 
 ---
 
+## اسکرین شات ها
+
+<p align="center">
+  <img src=".Screenshot_1738923202.png" alt="login" width="300" /> 
+</p>
+
 ## ویدیو 
   برای دانلود ویدیو [اینجا دانلود کنید](https://raw.githubusercontent.com/yasinowo/Crypto/refs/heads/main/Screenrecorder-2025-02-07-13-51-43-535.mp4).
 
